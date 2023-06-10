@@ -24,7 +24,11 @@ Feel free to explore the code and modify it to suit your needs!
 Contributions to this password checker project are welcome! If you have any improvements or bug fixes, please follow these steps:
 
 Fork the repository.
+
 Create a new branch for your contribution: git checkout -b feature/your-feature.
+
 Commit your changes: git commit -m 'Add your feature'.
+
 Push the branch to your forked repository: git push origin feature/your-feature.
+
 Open a pull request on the original repository.
